@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tempmailplus.github.io/sitemap.xml
+Sitemap: https://temp-mailplus.github.io/sitemap.xml
